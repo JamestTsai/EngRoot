@@ -1,0 +1,5 @@
+# AdMob app-ads.txt 範本
+# 當您申請完 AdMob 帳號後，請將下方 pub-XXXXXXXXXXXXXXXX 替換為您的 AdMob 發布商 ID
+# 並將此檔案上傳至您的官方網站根目錄 (例如: https://yourdomain.com/app-ads.txt)
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
